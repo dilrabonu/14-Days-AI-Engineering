@@ -87,11 +87,13 @@ Day 11: Fine-Tuning & Custom Voice Models
 📦 Task: Start preparing your voice samples for fine-tuning
 
 Day 12: Model Deployment Concepts
-🎓 Serving ML models: Flask, FastAPI, Docker, gRPC
+🎓 Build a LiveKit-based Voice Agent
 
-👨‍💻 Serve your STT pipeline with FastAPI
+Use LiveKit for real-time audio streaming
 
-📦 Task: Build an API that receives .wav file and returns text
+Pipeline: LiveKit Mic Input → Deepgram STT → LLM response → ElevenLabs TTS → LiveKit Audio Output
+
+📦 Task: Build and test an MVP of your LiveKit voice assistant agent
 
 Day 13: Realtime Voice Agent with Streamlit
 🎓 Integrating TTS + STT into a Streamlit app
@@ -103,7 +105,11 @@ Day 13: Realtime Voice Agent with Streamlit
 Day 14: Final Project & Showcase
 👨‍💻 Combine everything:
 
-VAD + STT (Whisper)
+🎓 Deploy STT pipeline (now using Deepgram API) via FastAPI
+
+📦 Task: Build an API: receive .wav → Deepgram STT → return text
+
+VAD + STT (Elevenlabs)
 
 TTS (Silero)
 
