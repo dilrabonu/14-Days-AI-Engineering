@@ -70,12 +70,12 @@ Day 9: Real-Time TTS with Silero
 
 📦 Task: Create a simple Python app: Input text → MP3 output
 
-Day 10: Build TTS-STT Conversational Loop
-🎓 Design a pipeline: TTS → User speaks → STT
+Day 10: Build TTS-STT 
+🎓 Learn ElevenLabs TTS API for natural speech
 
-👨‍💻 Build the app in Python using Whisper + Silero
+👨‍💻 Replace Silero with ElevenLabs for TTS
 
-📦 Task: Create a basic voice assistant
+📦 Task: Build TTS-STT pipeline: Deepgram (STT) + ElevenLabs (TTS)
 
 Day 11: Fine-Tuning & Custom Voice Models
 🎓 Dataset creation: Common Voice, LJSpeech, custom data
