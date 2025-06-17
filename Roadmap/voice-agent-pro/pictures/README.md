@@ -3,3 +3,5 @@ Day 1:
 
 Day 2:
 ![alt text]({360A2523-516F-49DD-B705-B7DF53C23CDD}.png)
+
+![alt text]({BD02BD36-F2BD-4506-9A95-5E036A25653A}.png)
